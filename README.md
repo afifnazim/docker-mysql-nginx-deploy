@@ -40,4 +40,3 @@ docker exec -it db-server mysql -u root -p
 ```
 
 Nginx should show the default http page and DB should ask for the root password. 
-
